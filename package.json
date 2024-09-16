@@ -1,0 +1,21 @@
+{
+  "name": "nevin-theme",
+  "displayName": "Noovin",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "noovin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noovin-color-theme.json"
+      }
+    ]
+  }
+}
